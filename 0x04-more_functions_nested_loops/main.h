@@ -4,7 +4,8 @@
 
 /** Prototypes */
 
-int _putchar (char C);
-int _isupper (int C);
+int _putchar (char c);
+int _isupper (int c);
+int _isdigit(int c);
 
 #endif
