@@ -1,4 +1,3 @@
-
 #include "main.h"
 
 
@@ -17,7 +16,8 @@ if (n <= 0)
 
 _putchar('\n');
 
-} else
+}
+else
 
 {
 
