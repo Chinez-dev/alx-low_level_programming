@@ -2,17 +2,16 @@
 #include "main.h"
 
 /*
-*main- prints a program that counts the number
+* main - print the number of arguments passed to the program
 *@argc: counts the number of argument
 *@argv: count the number of array
 *Return: Always 0
-*
 *
 */
 
 int main(int argc, char *argv[])
 {
-	(void)argv;
+	(void)argv;/*ignore argv*/
 	printf("%d\n", argc - 1);
 	return (0);
 }
