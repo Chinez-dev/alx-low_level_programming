@@ -1,0 +1,5 @@
+#ifndef OBJECT_LIKE_MACRO_H
+#define OBJECT_LIKE_MACRO_H
+#define SIZE 3.14159265359
+
+#endif
